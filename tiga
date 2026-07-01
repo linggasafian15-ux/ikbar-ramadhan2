@@ -1,0 +1,12 @@
+{
+  "tigag-ux-685": {
+    "hwid": "049487ad9af9da3fd724",
+    "active": true,
+    "expires": "2026-12-31"
+  },
+  "w-ux-002": {
+    "hwid": "PUT_HWID_2",
+    "active": true,
+    "expires": "2026-12-31"
+  }
+}
